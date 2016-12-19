@@ -1,0 +1,20 @@
+{
+  "name": "ui-line",
+  "version": "0.0.1",
+  "description": "UI Line function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": {
+    "name": "RainInFall",
+    "email": "lygjcsrq@163.com",
+    "url": "https://github.com/RainInFall/ui-line.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "expect": "^1.20.0"
+  }
+}
